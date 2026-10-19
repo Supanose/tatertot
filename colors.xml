@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Day: cream & spud-brown -->
+    <color name="widget_bg">#FFFFF6E6</color>
+    <color name="widget_btn2">#FFF3E3C8</color>
+    <color name="widget_text">#FF3E2716</color>
+    <color name="widget_muted">#FF7A5E46</color>
+    <color name="widget_accent">#FF8A5A2B</color>
+    <color name="widget_on_accent">#FFFFF8EC</color>
+    <color name="widget_highlight">#FF8A5A2B</color>
+    <color name="icon_bg">#FFFFE9C4</color>
+</resources>

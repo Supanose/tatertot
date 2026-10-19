@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Night: "soil" dark, easy on the eyes at 3am -->
+    <color name="widget_bg">#FF2A1F17</color>
+    <color name="widget_btn2">#FF3A2C21</color>
+    <color name="widget_text">#FFF5E6D0</color>
+    <color name="widget_muted">#FFCDB89C</color>
+    <color name="widget_accent">#FFF2C27E</color>
+    <color name="widget_on_accent">#FF3A2414</color>
+    <color name="widget_highlight">#FFF2C27E</color>
+    <color name="icon_bg">#FFFFE9C4</color>
+</resources>
